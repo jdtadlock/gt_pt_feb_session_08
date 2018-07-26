@@ -1,0 +1,20 @@
+{
+  "name": "08_session_7_25_18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js & cd ./client && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
